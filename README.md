@@ -14,4 +14,4 @@ Python libraries: scikit-learn, pandas, numpy, matplotlib
 ![image alt](https://github.com/SaeidDaliriSusefi/Surface-Water-Mapping-Modis/blob/f70403c8a8ac2e4cf7ad995efca50db2665165f7/Images/download.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-![image alt](https://github.com/SaeidDaliriSusefi/Surface-Water-Mapping-Landsat8/blob/400407629ff8cfb7f4fe5e7a8dbdeea94bd884bf/Images/download%20(1).png)
+![image alt](https://github.com/SaeidDaliriSusefi/Surface-Water-Mapping-Modis/blob/3c34ce2d85c01681bfb43df129fe6d84ab7442fc/Images/download%20(1).png)
